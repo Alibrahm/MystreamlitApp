@@ -3,7 +3,7 @@ streamlit==0.79.0
 pandas==1.0.5
 matplotlib==3.3.4
 scipy==1.5.4
-numpy==1.19.1
+numpy==1.22.0
 statsmodels==0.12.2
 ipython==7.31.1
 scikit_learn==0.24.2
